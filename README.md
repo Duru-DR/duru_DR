@@ -22,7 +22,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently full-time student at 1337.
+- 🔭 Software Engineer
 
 - Gmail: fraqioui@student.1337.ma
 
@@ -34,14 +34,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fraqioui&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=tima-ta&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="" alt="fraqioui" src="https://github-readme-streak-stats.herokuapp.com/?user=fraqioui&theme=dark&hide_border=false" /> 
+  <img  title="" alt="fraqioui" src="https://github-readme-streak-stats.herokuapp.com/?user=tima-ta&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fraqioui&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tima-ta&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -51,7 +51,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=fraqioui&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=tima-ta&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->

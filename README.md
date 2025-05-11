@@ -36,7 +36,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=duru_dr&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="" alt="duru_dr" src="https://github-readme-streak-stats.herokuapp.com/?user=tima-ta&theme=dark&hide_border=false" /> 
+  <img  title="" alt="duru_dr" src="https://github-readme-streak-stats.herokuapp.com/?user=duru_dr&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
